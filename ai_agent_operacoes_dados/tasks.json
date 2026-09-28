@@ -1,0 +1,13 @@
+[
+  {"id":"T101","title":"Criar email e Slack para Nuno Ribeiro","category":"onboarding","assignee_id":"E002","related_employee_id":"E013","status":"open","due_date":"2026-10-02"},
+  {"id":"T102","title":"Preparar portátil para Nuno Ribeiro","category":"onboarding","assignee_id":"E002","related_employee_id":"E013","status":"open","due_date":"2026-10-02"},
+  {"id":"T103","title":"Marcar sessão de boas-vindas com Nuno Ribeiro","category":"onboarding","assignee_id":"E007","related_employee_id":"E013","status":"open","due_date":"2026-10-05"},
+  {"id":"T104","title":"Pedir acesso GitHub para Nuno Ribeiro","category":"access","assignee_id":"E008","related_employee_id":"E013","status":"open","due_date":"2026-10-05","notes":"Ainda falta confirmar a necessidade dos repositórios."},
+  {"id":"T105","title":"Adicionar Nuno Ribeiro ao Drive de Engineering","category":"access","assignee_id":"E002","related_employee_id":"E013","status":"done","completed_at":"2026-09-30"},
+  {"id":"T106","title":"Rever pedido de monitor de Carolina Mendes","category":"expense","assignee_id":"E011","status":"open","due_date":"2026-10-03","amount_eur":420},
+  {"id":"T107","title":"Validar stock antes da compra do monitor","category":"expense","assignee_id":"E002","status":"open","due_date":"2026-10-03","amount_eur":420},
+  {"id":"T108","title":"Revogar acesso GitHub de ex-contractor","category":"access","assignee_id":"E002","status":"overdue","due_date":"2026-09-25","notes":"Pedido iniciado por People Operations."},
+  {"id":"T109","title":"Atualizar template de proposta comercial","category":"documentation","assignee_id":"E006","status":"open","due_date":"2026-10-07"},
+  {"id":"T110","title":"Confirmar acessos de Olívia Ramos","category":"access","assignee_id":"E009","related_employee_id":"E014","status":"open","due_date":"2026-10-01","notes":"Contractor; confirmar data de expiração."},
+  {"id":"T111","title":"Fechar onboarding de colaborador anterior","category":"onboarding","assignee_id":"E007","status":"done","completed_at":"2026-09-18"}
+]

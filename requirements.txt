@@ -1,0 +1,6 @@
+# No dependencies are required to run the prototype (Python 3.10+ stdlib only).
+#
+# Optional: uncomment the line below and set ANTHROPIC_API_KEY to let the
+# NLU layer (agent/nlu.py) use Claude instead of the built-in rule-based
+# classifier. Entirely optional -- everything works offline without it.
+# anthropic

@@ -1,0 +1,10 @@
+[
+  {"id":"M01","from":"Carolina Mendes","channel":"operations-help","timestamp":"2026-10-01T10:12:00+01:00","message":"Preciso de um monitor novo para trabalhar em casa. Encontrei um por 420 EUR. Como devo avançar?"},
+  {"id":"M02","from":"Helena Duarte","channel":"engineering","timestamp":"2026-10-01T11:05:00+01:00","message":"O Nuno começa segunda-feira. Acho que ainda falta tratar de alguns acessos, conseguem confirmar?"},
+  {"id":"M03","from":"Nuno Ribeiro","channel":"operations-help","timestamp":"2026-10-05T09:08:00+01:00","message":"Bom dia! Já tenho acesso ao Drive, mas não consigo entrar no GitHub. É suposto ter acesso hoje?"},
+  {"id":"M04","from":"Olívia Ramos","channel":"operations-help","timestamp":"2026-10-01T15:20:00+01:00","message":"Preciso de acesso a um repositório para ajudar no redesign. Posso pedir acesso geral ao GitHub?"},
+  {"id":"M05","from":"Filipe Rocha","channel":"sales","timestamp":"2026-10-02T09:45:00+01:00","message":"Alguém sabe onde está o template mais recente da proposta comercial? O que tenho guardado parece antigo."},
+  {"id":"M06","from":"Bruno Costa","channel":"operations","timestamp":"2026-10-02T14:30:00+01:00","message":"Ainda temos uma revogação de GitHub em atraso. Precisamos de confirmar qual é o acesso antes de fechar a tarefa."},
+  {"id":"M07","from":"Diogo Ferreira","channel":"engineering","timestamp":"2026-10-03T16:10:00+01:00","message":"Preciso de acesso de escrita a produção para investigar um problema urgente. Quem tem de aprovar?"},
+  {"id":"M08","from":"Gabriela Nunes","channel":"people-ops","timestamp":"2026-10-03T17:00:00+01:00","message":"Na próxima semana entram mais duas pessoas. Queria uma forma rápida de perceber o que está tratado e o que ainda falta em cada onboarding."}
+]

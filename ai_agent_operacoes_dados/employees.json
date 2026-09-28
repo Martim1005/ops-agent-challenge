@@ -1,0 +1,16 @@
+[
+  {"id":"E001","name":"Ana Silva","team":"Finance","role":"Finance Manager","manager_id":"E010","location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E002","name":"Bruno Costa","team":"Operations","role":"Operations Specialist","manager_id":"E009","location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E003","name":"Carolina Mendes","team":"Marketing","role":"Marketing Specialist","manager_id":"E011","location":"Porto","employment_type":"full_time","status":"active"},
+  {"id":"E004","name":"Diogo Ferreira","team":"Engineering","role":"Backend Developer","manager_id":"E008","location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E005","name":"Eva Martins","team":"Engineering","role":"Frontend Developer","manager_id":"E008","location":"Remoto","employment_type":"full_time","status":"active"},
+  {"id":"E006","name":"Filipe Rocha","team":"Sales","role":"Account Executive","manager_id":"E012","location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E007","name":"Gabriela Nunes","team":"People","role":"People Operations","manager_id":"E009","location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E008","name":"Helena Duarte","team":"Engineering","role":"Engineering Manager","manager_id":"E010","location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E009","name":"Inês Almeida","team":"Operations","role":"Head of Operations","manager_id":"E010","location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E010","name":"João Matos","team":"Management","role":"Managing Director","manager_id":null,"location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E011","name":"Leonor Sousa","team":"Marketing","role":"Marketing Manager","manager_id":"E010","location":"Porto","employment_type":"full_time","status":"active"},
+  {"id":"E012","name":"Miguel Pinto","team":"Sales","role":"Sales Manager","manager_id":"E010","location":"Lisboa","employment_type":"full_time","status":"active"},
+  {"id":"E013","name":"Nuno Ribeiro","team":"Engineering","role":"Junior Developer","manager_id":"E008","location":"Lisboa","employment_type":"full_time","status":"starting_soon","start_date":"2026-10-05"},
+  {"id":"E014","name":"Olívia Ramos","team":"Design","role":"Product Designer","manager_id":"E009","location":"Remoto","employment_type":"contractor","status":"active"}
+]

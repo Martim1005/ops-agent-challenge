@@ -1,0 +1,14 @@
+{
+  "timezone": "Europe/Lisbon",
+  "date_range": "2026-10-05/2026-10-09",
+  "events": [
+    {"id":"C01","employee_id":"E007","title":"People Weekly","start":"2026-10-05T09:30:00+01:00","end":"2026-10-05T10:00:00+01:00"},
+    {"id":"C02","employee_id":"E008","title":"Engineering Planning","start":"2026-10-05T10:00:00+01:00","end":"2026-10-05T11:00:00+01:00"},
+    {"id":"C03","employee_id":"E013","title":"Sessão de boas-vindas","start":"2026-10-05T11:30:00+01:00","end":"2026-10-05T12:00:00+01:00"},
+    {"id":"C04","employee_id":"E007","title":"Sessão de boas-vindas","start":"2026-10-05T11:30:00+01:00","end":"2026-10-05T12:00:00+01:00"},
+    {"id":"C05","employee_id":"E008","title":"Cliente — Projeto Atlas","start":"2026-10-06T14:00:00+01:00","end":"2026-10-06T15:00:00+01:00"},
+    {"id":"C06","employee_id":"E008","title":"1:1 reservado","start":"2026-10-07T09:00:00+01:00","end":"2026-10-07T09:30:00+01:00"},
+    {"id":"C07","employee_id":"E009","title":"Operations Review","start":"2026-10-07T15:00:00+01:00","end":"2026-10-07T16:00:00+01:00"},
+    {"id":"C08","employee_id":"E001","title":"Finance Review","start":"2026-10-08T10:30:00+01:00","end":"2026-10-08T11:30:00+01:00"}
+  ]
+}
